@@ -1,0 +1,5 @@
+src/node_modules/
+src/index.html
+src/out/
+src/zoom/
+__pycache__/
